@@ -42,8 +42,6 @@ wp-content/themes/index.php
 # Assets del tema (generados)
 wp-content/themes/tbt-theme/assets/
 wp-content/themes/tbt-theme/screenshot.png
-
-# Archivos de cache
 wp-content/cache/
 wp-content/blogs.dir/
 
