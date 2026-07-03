@@ -1,0 +1,54 @@
+# WordPress Core
+wp-admin/
+wp-includes/
+index.php
+license.txt
+readme.html
+wp-activate.php
+wp-blog-header.php
+wp-comments-post.php
+wp-cron.php
+wp-links-opml.php
+wp-load.php
+wp-login.php
+wp-mail.php
+wp-settings.php
+wp-signup.php
+wp-trackback.php
+xmlrpc.php
+
+# Configuración (contiene credenciales API)
+wp-config.php
+wp-config-sample.php
+
+# Archivos de servidor
+.htaccess
+.maintenance
+local-xdebuginfo.php
+
+# Plugins y uploads (no versionar)
+wp-content/plugins/
+wp-content/uploads/
+
+# Backups
+wp-content/ai1wm-backups/
+wp-content/backups-dup-lite/
+wp-content/updraft/
+
+# Tema padre (astra)
+wp-content/themes/astra/
+wp-content/themes/index.php
+
+# Assets del tema (generados)
+wp-content/themes/tbt-theme/assets/
+wp-content/themes/tbt-theme/screenshot.png
+
+# Archivos de cache
+wp-content/cache/
+wp-content/blogs.dir/
+
+# Environments
+.env
+.htaccess
+.htpasswd
+*.log
